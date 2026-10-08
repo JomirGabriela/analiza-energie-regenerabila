@@ -1,0 +1,29 @@
+{
+  "features": [
+    "ALLSKY_SFC_SW_DWN",
+    "CLOUD_AMT",
+    "PRECTOTCORR_SUM",
+    "PS",
+    "RH2M",
+    "T2M",
+    "WS50M",
+    "pv_energy_kwh_day",
+    "wind_energy_kwh_day",
+    "producere",
+    "import",
+    "procurat_din_alte_surse",
+    "variatia_stocurilor",
+    "export",
+    "share_solar_wind",
+    "prod_solar_wind_mwh",
+    "prod_other_mwh",
+    "month_sin",
+    "month_cos",
+    "trend_year",
+    "net_import_mwh",
+    "total_supply_mwh",
+    "producere_roll3",
+    "import_roll3",
+    "prod_solar_wind_mwh_roll3"
+  ]
+}
